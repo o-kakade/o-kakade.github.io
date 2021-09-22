@@ -23,7 +23,7 @@ You can learn more about me using the following links:
 - [Resume]({{site.url}}/tabs/resume)
 - [LinkedIn](https://www.linkedin.com/in/omkarkakade)
 - [Github](https://github.com/okakade05)
-- [Certifications](https://www.youracclaim.com/users/omkar.kakade/badges)
+- [Certifications](https://www.youracclaim.com/users/omkar.kakade/badges) 
 
 
 # Timeline
