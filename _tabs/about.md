@@ -22,7 +22,7 @@ You can learn more about me using the following links:
 
 - [Resume]({{site.url}}/tabs/resume)
 - [LinkedIn](https://www.linkedin.com/in/omkarkakade)
-- [Github](https://github.com/okakade05)
+- [Github](https://github.com/o-kakade)
 - [Certifications](https://www.youracclaim.com/users/omkar.kakade/badges) 
 
 
@@ -43,7 +43,7 @@ You can learn more about me using the following links:
 
 # 2018
 - Learn ML for the first time.
-- Build projects showcasing various approaches to solve [Parallel Computing Problems](https://github.com/okakade05/parallel-computing).
+- Build projects showcasing various approaches to solve [Parallel Computing Problems](https://github.com/o-kakade/parallel-computing).
 
 # 2017 
 - Begin MSc. Computer Science at RIT.
