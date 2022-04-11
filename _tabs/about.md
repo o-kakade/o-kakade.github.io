@@ -27,6 +27,10 @@ You can learn more about me using the following links:
 
 
 # Timeline
+# 2021 
+- Software Engineer - Full Stack - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Nov 2021 - Present @ Somerville, MA.
+- Software Engineer - AI/ML with a Boston based startup - Feb - Oct - 2021 @ Boston, MA.
+
 # 2020 
 - Graduated MSc. Computer Science from RIT - Dec 2020.
 - ML Engineer Intern - [Siemens](https://www.siemens.com/) - Jan - May - 2020 @ Orlando, FL.
