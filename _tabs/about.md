@@ -10,11 +10,11 @@ order: 1
 # MIT License
 ---
 
-Hi, I am Omkar. I am a Software Engineer with experience building serverless application for querying knowledge graphs using natural language and laying groundwork for a cloud based analytics pipeline for time series forecasting use cases using AWS Sagemaker.
+Hi, I am Omkar. I am a Software Engineer with experience building Scalable Web Applications, Production Grade Cloud Infrastructure, ML Pipelines, Serverless Applications and Internal tools. I'm currently working on [Drone-as-a-first-responder (DFR) solution](https://www.motorolasolutions.com/en_us/video-security-access-control/drones/cape-drone-software.html) for public safety with [Motorola Solutions](https://www.motorolasolutions.com/en_us.html).
 
 My primary interests include Distributed Systems and Infrastructure, AI/ML and Big Data Platforms. On here you will find stuff on my projects, documenting technical challenges and general blogs.
 
-I recently graduated with my Masters in Computer Science from [Rochester Institute of Technology](https://www.rit.edu). Originally from [India](https://en.wikipedia.org/wiki/India), I've also lived for a significant time in [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates), [Qatar](https://en.wikipedia.org/wiki/Qatar) and now [USA](https://en.wikipedia.org/wiki/United_States).
+Originally from [India](https://en.wikipedia.org/wiki/India), I've also lived for a significant time in [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates), [Qatar](https://en.wikipedia.org/wiki/Qatar) and now [USA](https://en.wikipedia.org/wiki/United_States).
 
 Outside of work, I am an avid motoring enthusiast and follow [Formula 1](https://www.formula1.com/) which being a technical sport creates a positive feedback loop for my engineering curiosity and learning what under the hood components makes things perform. I also enjoy gaming, hiking and working out.
 
@@ -32,7 +32,7 @@ You can learn more about me using the following links:
 - Software Engineer - AI/ML with a Boston based startup - Feb - Oct - 2021 @ Boston, MA.
 
 # 2020 
-- Graduated MSc. Computer Science from RIT - Dec 2020.
+- Graduated MSc. Computer Science from [Rochester Institute of Technology](https://www.rit.edu) - Dec 2020.
 - ML Engineer Intern - [Siemens](https://www.siemens.com/) - Jan - May - 2020 @ Orlando, FL.
 - 2 AWS Certifications.
 
@@ -46,9 +46,9 @@ You can learn more about me using the following links:
 - Build projects showcasing various approaches to solve [Parallel Computing Problems](https://github.com/o-kakade/parallel-computing).
 
 # 2017 
-- Begin MSc. Computer Science at RIT.
+- Begin MSc. Computer Science at [Rochester Institute of Technology](https://www.rit.edu).
 
 # 2016
-- Graduated with Bachelor of Engineering - Computer Engineering from University of Pune, India.
+- Graduated with Bachelor of Engineering - Computer Engineering from [University of Pune](http://unipune.ac.in), India.
 
 <!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
