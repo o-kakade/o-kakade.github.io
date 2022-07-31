@@ -7,6 +7,8 @@ layout: page
 # MIT Licensed
 ---
 
+{% capture icon_url %}{{ site.baseurl }}/assets/img{% endcapture %}
+<meta property="og:image" content="{{ icon_url }}/picture/space.jpeg" />
 
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
