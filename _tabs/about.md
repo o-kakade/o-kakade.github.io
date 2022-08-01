@@ -49,6 +49,6 @@ You can learn more about me using the following links:
 - Begin MSc. Computer Science at [Rochester Institute of Technology](https://www.rit.edu).
 
 # 2016
-- Graduated with Bachelor of Engineering - Computer Engineering from [University of Pune](http://unipune.ac.in), India.
+- Graduated with Bachelor of Engineering - Computer Engineering from [University of Pune](https://en.wikipedia.org/wiki/Savitribai_Phule_Pune_University), India.
 
 <!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
