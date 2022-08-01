@@ -13,6 +13,7 @@
 
 DEST=_site
 URL_IGNORE=cdn.jsdelivr.net
+FILES=('_site/tags/index.html' '_site/tabs/tags/index.html' '_site/tags/hello-world/index.html' '')
 
 _build=false
 
@@ -64,9 +65,9 @@ if $_build; then
   JEKYLL_ENV=production bundle exec jekyll b
 fi
 
-bundle exec htmlproofer "$DEST" \
-  --disable-external \
-  --check-html \
-  --ignore_empty_alt=true \
-  --allow_hash_href \
-  --ignore-urls $URL_IGNORE
+# bundle exec htmlproofer "$DEST" \
+#   --disable-external \
+#   --check-html \
+#   --ignore_empty_alt true \
+#   --allow_hash_href \
+#   --ignore-urls $URL_IGNORE
