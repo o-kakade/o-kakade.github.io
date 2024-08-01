@@ -23,9 +23,10 @@ jobs:
           fetch-depth: 0  # for posts's lastmod
 
       - name: Setup Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: '3.3' # Not needed with a `.ruby-version` or `.tool-versions`
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Bundle Caching
         uses: actions/cache@v2
