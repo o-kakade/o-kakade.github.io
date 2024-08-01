@@ -27,6 +27,17 @@ You can learn more about me using the following links:
 
 
 # Timeline
+# 2024
+- Senior Software Engineer - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Feb 2024 - Present @ Vancouver, CA.
+- Deploy infrastructure for internal services supporting company wide applications on sovereign [GovCloud](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-welcome) environment.
+
+# 2023 
+- Design Infrastructure for Multi-Region Deployments.
+
+# 2022 
+- Build features for managing viewers on a livestream, mission planning and management of drones & users on a project @ [CAPE](https://www.motorolasolutions.com/en_us/video-security-access-control/drones/cape-drone-software.html) 
+- Integrate CAPE with [CommandCentral Aware](https://www.motorolasolutions.com/en_us/products/command-center-software/public-safety-software/real-time-intelligence-operations/commandcentral-aware.html) - [Announcement Blog Post](https://www.motorolasolutions.com/newsroom/press-releases/motorola-solutions-unveils-mobile-field-based-innovations-at-iac.html)
+
 # 2021 
 - Software Engineer - Full Stack - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Nov 2021 - Present @ Somerville, MA.
 - Software Engineer - AI/ML with a Boston based startup - Feb - Oct - 2021 @ Boston, MA.
