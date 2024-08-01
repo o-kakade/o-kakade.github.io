@@ -14,7 +14,7 @@ Hi, I am Omkar. I am a Software Engineer with experience building Scalable Web A
 
 My primary interests include Distributed Systems and Infrastructure, AI/ML and Big Data Platforms. On here you will find stuff on my projects, documenting technical challenges and general blogs.
 
-Originally from [India](https://en.wikipedia.org/wiki/India), I've also lived for a significant time in [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates), [Qatar](https://en.wikipedia.org/wiki/Qatar) and now [USA](https://en.wikipedia.org/wiki/United_States).
+Originally from [India](https://en.wikipedia.org/wiki/India), I've also lived in [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates), [Qatar](https://en.wikipedia.org/wiki/Qatar), [USA](https://en.wikipedia.org/wiki/United_States) & now [Canada](https://en.wikipedia.org/wiki/Canada).
 
 Outside of work, I am an avid motoring enthusiast and follow [Formula 1](https://www.formula1.com/) which being a technical sport creates a positive feedback loop for my engineering curiosity and learning what under the hood components makes things perform. I also enjoy gaming, hiking and working out.
 
