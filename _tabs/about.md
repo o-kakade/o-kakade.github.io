@@ -24,6 +24,7 @@ Feel free to check out my work and connect with me through the links below:
 - [Github](https://github.com/o-kakade)
 - [Certifications](https://www.youracclaim.com/users/omkar.kakade/badges) 
 
+
 ---
 # Timeline
 ## 2024
