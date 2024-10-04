@@ -25,7 +25,6 @@ Feel free to check out my work and connect with me through the links below:
 - [Certifications](https://www.youracclaim.com/users/omkar.kakade/badges) 
 
 ---
-
 # Timeline
 ## 2024
 - Senior Software Engineer - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Feb 2024 - Present @ Vancouver, CA.
