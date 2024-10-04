@@ -10,16 +10,15 @@ order: 1
 # MIT License
 ---
 
-Hi, I am Omkar. I am a Software Engineer with experience building Scalable Web Applications, Production Grade Cloud Infrastructure, ML Pipelines, Serverless Applications and Internal tools. I'm currently working on [Drone-as-a-first-responder (DFR) solution](https://www.motorolasolutions.com/en_us/video-security-access-control/drones/cape-drone-software.html) for public safety with [Motorola Solutions](https://www.motorolasolutions.com/en_us.html).
+Hi, I’m Omkar — a Software Engineer passionate about creating scalable web applications, production-grade cloud infrastructure, and cutting-edge ML pipelines. Right now, I’m working on a [Drone-as-a-first-responder (DFR) platform](https://www.motorolasolutions.com/en_us/video-security-access-control/drones/cape-drone-software.html) for public safety at [Motorola Solutions](https://www.motorolasolutions.com/en_us.html). It’s an exciting blend of innovation and real-world impact.
 
-My primary interests include Distributed Systems and Infrastructure, AI/ML and Big Data Platforms. On here you will find stuff on my projects, documenting technical challenges and general blogs.
+I’m drawn to distributed systems, AI/ML, and big data platforms, always looking to push the boundaries of what technology can do. Here, you’ll find my latest projects, technical challenges, and occasional deep dives into topics that intrigue me.
 
-Originally from [India](https://en.wikipedia.org/wiki/India), I've also lived in [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates), [Qatar](https://en.wikipedia.org/wiki/Qatar), [USA](https://en.wikipedia.org/wiki/United_States) & now [Canada](https://en.wikipedia.org/wiki/Canada).
+Originally from [India](https://en.wikipedia.org/wiki/India), I've also lived in [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates), [Qatar](https://en.wikipedia.org/wiki/Qatar), [USA](https://en.wikipedia.org/wiki/United_States) & now [Canada](https://en.wikipedia.org/wiki/Canada). These experiences have shaped my approach to technology and problem-solving, giving me a global perspective.
 
-Outside of work, I am an avid motoring enthusiast and follow [Formula 1](https://www.formula1.com/) which being a technical sport creates a positive feedback loop for my engineering curiosity and learning what under the hood components makes things perform. I also enjoy gaming, hiking and working out.
+When I’m not coding or tinkering with new tech, you’ll probably find me indulging my passion for motorsports—especially [Formula 1](https://www.formula1.com/). F1 also fuels my curiosity to explore what makes things tick “under the hood.” I’m also into gaming, hiking, and staying active at the gym.
 
-You can learn more about me using the following links:
-
+Feel free to check out my work and connect with me through the links below:
 - [Resume]({{site.url}}/tabs/resume)
 - [LinkedIn](https://www.linkedin.com/in/omkarkakade)
 - [Github](https://github.com/o-kakade)
