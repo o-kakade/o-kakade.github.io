@@ -24,8 +24,8 @@ Feel free to check out my work and connect with me through the links below:
 - [Github](https://github.com/o-kakade)
 - [Certifications](https://www.youracclaim.com/users/omkar.kakade/badges) 
 
-
 ---
+
 # Timeline
 ## 2024
 - Senior Software Engineer - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html) - Feb 2024 - Present @ Vancouver, CA.
@@ -60,4 +60,5 @@ Feel free to check out my work and connect with me through the links below:
 ## 2016
 - Graduated with Bachelor of Engineering - Computer Engineering from [University of Pune](https://en.wikipedia.org/wiki/Savitribai_Phule_Pune_University), India.
 
+---
 <!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
