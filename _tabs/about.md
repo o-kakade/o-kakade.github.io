@@ -10,7 +10,7 @@ order: 1
 # MIT License
 ---
 
-Hi, I'm Omkar. I'm a Software Engineer passionate about creating scalable web applications, production-grade cloud infrastructure, and cutting-edge AI/ML workflows. Right now, I'm working on a [Drone-as-a-first-responder (DFR) platform](https://www.motorolasolutions.com/en_us/video-security-access-control/drones/cape-drone-software.html) for public safety at [Motorola Solutions](https://www.motorolasolutions.com/en_us.html). It's an exciting blend of innovation and real-world impact.
+Hi, I'm Omkar. I'm a Software Engineer passionate about creating scalable web applications, production-grade cloud infrastructure, and cutting-edge AI/ML workflows. Right now, I'm working on platform engineering and infrastructure at [Quandri](https://www.quandri.io/), building scalable cloud infrastructure, optimizing costs, and ensuring production reliability. I focus on distributed systems architecture, Kafka infrastructure at scale, and designing platform capabilities that enable teams to move faster.
 
 I'm drawn to distributed systems, AI/ML, and big data platforms, always looking to push the boundaries of what technology can do. Here, you'll find my latest projects, technical challenges, and occasional deep dives into topics that intrigue me.
 
